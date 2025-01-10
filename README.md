@@ -7,6 +7,7 @@ This game was created for a project in 2022-2023. It was a way to practice utili
 - This game functions in a similar way to horse racing. Once you run the game, you'll be prompted on if you wish to read the instructions, if you wish to look at the randomly generated stats, which cats you would like to bet on, and which form of motion you would like to be used for the race, all in that order. 
 - The names of the cats are determined by their colour, and by their randomized stats. 
 - Follow the instructions and you should have little issues.
+- To quit, just close the program.
 
 ## Credits
 - Developed by Emily Amos (@superemma13)
